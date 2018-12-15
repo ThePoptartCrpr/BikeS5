@@ -3,6 +3,9 @@
 ? = undecided
 
 
+## Core
+* Forge 1.12.2 14.23.5.2768
+
 ## Magic
 * Thaumcraft
 * Botania
@@ -17,7 +20,7 @@
 * Dawn
 * Refined Storage
 * AE2
-* ExtraCells?
+* ExtraCells
 * ImmersiveEngineering
 * ImmersiveCraft
 * EnderIO
@@ -35,27 +38,47 @@
 * BetterFPS
 * VanillaFix
 * FoamFix
-* ikwid
 * ToastControl
 * Journeymap
 * JEI
+* Just Enough Resources
 * LoginShield
 * HWYLA
 * WAWLA
-* Fancy Block Particles
 * Better Advancements
+* Repose
 
 ## World / Agriculture
 * Animania
 * Dynamic Trees
 * Biomes O' Plenty
-* Dynamic Trees - BOP Compat
 * Pam's HarvestCraft
 * Agricraft
 * Streams
 * Rustic
+* Natura
+
+## Compatibility
+* CraftTweaker2
+* Dynamic Trees - Biomes O' Plenty Compat
+* Dynamic Trees - Thaumcraft Compat
+* Dynamic Trees - Pam's HarvestCraft Compat
+* Integration Foregoing
 
 ## Misc
-* CraftTweaker2
 * StorageDrawers
-* Repose
+
+## Libraries
+* CoFH Core
+* CoFH World
+* AutoRegLib
+* CraftStudio
+* Farseek
+* Chameleon
+* infinitylib
+* EnderCore
+* McJtyLib
+* Tesla Core Lib
+* Forgelin
+* Mantle
+* OreLib

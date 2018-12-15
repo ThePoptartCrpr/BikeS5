@@ -2,8 +2,11 @@
 logs/
 resourcepacks/
 saves/
+mods/memory_repo/
+.mixin.out/
 
 # Files
+*.jar
 *.log
 options.txt
 splash.properties
