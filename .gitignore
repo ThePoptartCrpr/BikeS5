@@ -1,0 +1,9 @@
+# Directories
+logs/
+resourcepacks/
+saves/
+
+# Files
+*.log
+options.txt
+splash.properties
