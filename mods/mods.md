@@ -1,6 +1,6 @@
 # Mod List
 
-? = undecided
+(?) = undecided
 
 
 ## Core
@@ -14,22 +14,33 @@
 * Mystical Agriculture
 
 ## Tech
+* Avaritia?
+* Actually Additions (?)
 * Better With Mods
+* Calculator?
 * Tinkers' Construct
-* Tinkers' Complement?
+* Tinkers' Complement (?)
+* Tinkers' Armoury (?)
+* Tinker Tool Leveling (?)
 * Dawn
-* Refined Storage
+* Refined Storage (?)
 * AE2
 * ExtraCells
+* Extreme Reactors (?)
 * ImmersiveEngineering
 * ImmersiveCraft
 * EnderIO
 * Mekanism
+* MekanismGenerators
+* MekanismTools
+* More Avaritia?
 * PrimalCore
+* SimplyJetpacks (?)
 * TechReborn
 * Thermal Foundation
 * Thermal Expansion
 * Industrial Foregoing
+* Wireless Crafting Terminal (?)
 
 ## Quality of Life
 * Quark
@@ -43,13 +54,17 @@
 * JEI
 * Just Enough Resources
 * LoginShield
-* HWYLA
-* WAWLA
+* Lag Goggles?
+~~* HWYLA~~
+~~* WAWLA~~
+* TheOneProbe (?)
 * Better Advancements
 * Repose
 
 ## World / Agriculture
 * Animania
+* Chisel (?)
+* Chisels & Bits (?)
 * Dynamic Trees
 * Biomes O' Plenty
 * Pam's HarvestCraft
@@ -57,6 +72,7 @@
 * Streams
 * Rustic
 * Natura
+* Xtones (?)
 
 ## Compatibility
 * CraftTweaker2
