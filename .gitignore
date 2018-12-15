@@ -8,5 +8,6 @@ mods/memory_repo/
 # Files
 *.jar
 *.log
+*.zip
 options.txt
 splash.properties
