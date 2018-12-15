@@ -42,6 +42,8 @@
 * LoginShield
 * HWYLA
 * WAWLA
+* Fancy Block Particles
+* Better Advancements
 
 ## World / Agriculture
 * Animania
@@ -55,3 +57,5 @@
 
 ## Misc
 * CraftTweaker2
+* StorageDrawers
+* Repose
