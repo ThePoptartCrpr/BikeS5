@@ -41,6 +41,7 @@
 * TechReborn
 * Thermal Foundation
 * Thermal Expansion
+* Thermal Dynamics
 * Industrial Foregoing
 * Wireless Crafting Terminal (?)
 
