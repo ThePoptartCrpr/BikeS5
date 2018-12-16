@@ -36,6 +36,7 @@
 * MekanismTools
 * More Avaritia?
 * PrimalCore
+* ProjectE
 * SimplyJetpacks (?)
 * TechReborn
 * Thermal Foundation
