@@ -55,8 +55,8 @@
 * Just Enough Resources
 * LoginShield
 * Lag Goggles?
-~~* HWYLA~~
-~~* WAWLA~~
+* ~~HWYLA~~
+* ~~WAWLA~~
 * TheOneProbe (?)
 * Better Advancements
 * Repose
