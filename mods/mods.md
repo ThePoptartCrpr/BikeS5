@@ -18,6 +18,7 @@
 * Actually Additions (?)
 * Better With Mods
 * Calculator?
+* ComputerCraft
 * Tinkers' Construct
 * Tinkers' Complement (?)
 * Tinkers' Armoury (?)
