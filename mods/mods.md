@@ -23,7 +23,7 @@
 * Tinkers' Armoury (?)
 * Tinker Tool Leveling (?)
 * Dawn
-* Refined Storage (?)
+* Refined Storage
 * AE2
 * ExtraCells
 * Extreme Reactors (?)
