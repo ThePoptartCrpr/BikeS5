@@ -4,6 +4,7 @@ resourcepacks/
 saves/
 mods/memory_repo/
 .mixin.out/
+astralsorcery/
 
 # Files
 *.jar
