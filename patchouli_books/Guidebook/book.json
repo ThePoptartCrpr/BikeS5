@@ -1,5 +1,5 @@
 {
     "name": "Guidebook",
-    "landing_text": "Welcome to the BIKE Modded SMP S5 Guidebook!\nthis better fucking be a new line or im going to commit not alive",
-    "version": 1
+    "landing_text": "$(8)Welcome to the $(l)$(c)BIKE$(7) Modded SMP$(c)S5$(reset)$(8)Guidebook!$(br2)$(8)This book will come in handy if you're struggling with a certain part of the pack.",
+    "version": 4
 }
