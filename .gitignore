@@ -5,6 +5,15 @@ saves/
 mods/memory_repo/
 .mixin.out/
 astralsorcery/
+assets/
+coremods/
+crash-reports/
+fonts/
+journeymap/
+Minecord/
+patchoili-books/
+resourcepacks/
+screenshots/
 
 # Files
 *.jar
