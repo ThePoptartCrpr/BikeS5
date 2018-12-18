@@ -9,5 +9,8 @@ mods/memory_repo/
 *.jar
 *.log
 *.zip
+*.dll
+*.dat
 options.txt
+optionsof.txt
 splash.properties
