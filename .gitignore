@@ -24,3 +24,19 @@ screenshots/
 options.txt
 optionsof.txt
 splash.properties
+
+
+# Minecraft junk
+
+usercache.json
+usernamecache.json
+
+
+# Mod junk
+
+config/jei/worldSettings.cfg
+
+
+# Misc
+
+mods_old/
