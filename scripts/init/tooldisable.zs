@@ -9,7 +9,7 @@ import crafttweaker.item.IItemStack;
  */
 function disableTool(tool as IItemStack) {
     tool.maxDamage = 1;
-    tool.addTooltip(format.red("Use TiCon tools! Refer to your guidebook for more info."));
+    tool.addTooltip(format.red("Use Tinker's Construct tools! Refer to your guidebook for more info."));
 }
 
 /**
