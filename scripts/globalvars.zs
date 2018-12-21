@@ -3,7 +3,7 @@
 
 import modtweaker.tconstruct.ITICMaterial;
 
-global toolLevels = [
+global toolLevels as ITICMaterial[] = [
     <ticmat:wood>, # 0
     <ticmat:flint>, # 1
     <ticmat:stone>, # 2
