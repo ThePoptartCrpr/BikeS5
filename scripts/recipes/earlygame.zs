@@ -2,6 +2,7 @@
 # scripts/recipes/earlygame.zs
 
 import crafttweaker.item.IItemStack;
+import crafttweaker.item.IIngredient;
 import crafttweaker.oredict.IOreDict;
 import crafttweaker.recipes.ICraftingRecipe;
 
@@ -20,17 +21,19 @@ val crafting_table = <minecraft:crafting_table>;
 val chest = <minecraft:chest>;
 
 recipes.remove(crafting_table);
-recipes.addShaped(crafting_table, [
+recipes.addShaped("BikeS5_CraftingTable", crafting_table, [
     [barkknife, pressure_plate],
     [planks,    planks]
 ]);
 
 recipes.remove(<roots:wood_knife>);
-recipes.addShaped(<roots:wood_knife>, [
+recipes.addShaped("BikeS5_RootsKnife", <roots:wood_knife>, [
     [null, flint],
     [stick, null]
 ]);
 
 furnace.remove(<tconstruct:materials>);
 
-recipes.addShapeless(<ceramics:unfired_clay:4> * 2, [<minecraft:clay_ball>, <minecraft:clay_ball>, <minecraft:gravel>])
+recipes.addShapeless("BikeS5_UnfiredClay", <ceramics:unfired_clay:4> * 2, [
+  <minecraft:clay_ball>, <minecraft:clay_ball>, <minecraft:gravel>
+]);
