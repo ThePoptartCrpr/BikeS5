@@ -19,6 +19,7 @@
 * Better With Mods
 * Calculator?
 * ComputerCraft
+* Draconic Evolution
 * Tinkers' Construct
 * Tinkers' Complement (?)
 * Tinkers' Armoury (?)
@@ -82,11 +83,13 @@
 * Dynamic Trees - Thaumcraft Compat
 * Dynamic Trees - Pam's HarvestCraft Compat
 * Integration Foregoing
+* Project Intelligence
 
 ## Misc
 * StorageDrawers
 
 ## Libraries
+* BrandonsCore
 * CoFH Core
 * CoFH World
 * AutoRegLib
@@ -96,6 +99,7 @@
 * infinitylib
 * EnderCore
 * McJtyLib
+* Redstone Flux
 * Tesla Core Lib
 * Forgelin
 * Mantle
