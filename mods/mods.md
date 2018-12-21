@@ -70,6 +70,7 @@
 * Chisels & Bits (?)
 * Dynamic Trees
 * Biomes O' Plenty
+* Geogriphicraft
 * Pam's HarvestCraft
 * Agricraft
 * Streams
