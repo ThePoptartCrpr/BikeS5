@@ -25,17 +25,17 @@ setHardness(<tconstruct:ore:1>.asBlock(), 7);
 setHardness(<tconstruct:ore>.asBlock(), 8);
 
 // Tool Material Harvest Levels
-toolLevels[0].harvestLevelHead(0);
-toolLevels[1].harvestLevelHead(1);
-toolLevels[2].harvestLevelHead(2);
-toolLevels[3].harvestLevelHead(3);
-toolLevels[4].harvestLevelHead(4);
-toolLevels[5].harvestLevelHead(5);
-toolLevels[6].harvestLevelHead(6);
-toolLevels[7].harvestLevelHead(7);
-toolLevels[8].harvestLevelHead(8);
-toolLevels[9].harvestLevelHead(9);
-toolLevels[10].harvestLevelHead(10);
+toolLevels[0].harvestLevelHead = 0;
+toolLevels[1].harvestLevelHead = 1;
+toolLevels[2].harvestLevelHead = 2;
+toolLevels[3].harvestLevelHead = 3;
+toolLevels[4].harvestLevelHead = 4;
+toolLevels[5].harvestLevelHead = 5;
+toolLevels[6].harvestLevelHead = 6;
+toolLevels[7].harvestLevelHead = 7;
+toolLevels[8].harvestLevelHead = 8;
+toolLevels[9].harvestLevelHead = 9;
+toolLevels[10].harvestLevelHead = 10;
 
 // Ore Hardness
 

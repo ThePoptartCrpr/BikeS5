@@ -1,5 +1,6 @@
-#priority 801
+#priority 799
 # scripts/recipes/earlygame.zs
+# Early game progression recipes.
 
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
