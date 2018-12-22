@@ -14,20 +14,19 @@
 * Mystical Agriculture
 
 ## Tech
-* Avaritia?
-* Actually Additions (?)
+* Avaritia
+* Actually Additions
 * Better With Mods
-* Calculator?
+* Calculator
 * ComputerCraft
 * Draconic Evolution
 * Tinkers' Construct
-* Tinkers' Complement (?)
-* Tinkers' Armoury (?)
-* Tinker Tool Leveling (?)
+* Tinkers' Complement
+* Tinkers' Armoury
+* Tinker Tool Leveling
 * Refined Storage
 * AE2
 * ExtraCells
-* Extreme Reactors (?)
 * ImmersiveEngineering
 * ImmersiveCraft
 * EnderIO
@@ -37,13 +36,13 @@
 * More Avaritia?
 * PrimalCore
 * ProjectE
-* SimplyJetpacks (?)
+* SimplyJetpacks
 * TechReborn
 * Thermal Foundation
 * Thermal Expansion
 * Thermal Dynamics
 * Industrial Foregoing
-* Wireless Crafting Terminal (?)
+* Wireless Crafting Terminal
 
 ## Quality of Life
 * Quark
@@ -57,17 +56,17 @@
 * JEI
 * Just Enough Resources
 * LoginShield
-* Lag Goggles?
-* ~~HWYLA~~
-* ~~WAWLA~~
-* TheOneProbe (?)
+* Lag Goggles
+* OpenBlocks
+* TheOneProbe
 * Better Advancements
 * Repose
 
 ## World / Agriculture
+* Aroma1997s Dimensional World
 * Animania
-* Chisel (?)
-* Chisels & Bits (?)
+* Chisel
+* Chisels & Bits
 * Dynamic Trees
 * Biomes O' Plenty
 * Geogriphicraft
@@ -76,7 +75,8 @@
 * Streams
 * Rustic
 * Natura
-* Xtones (?)
+* Nutrition
+* Xtones
 
 ## Compatibility
 * CraftTweaker2
@@ -90,6 +90,7 @@
 * StorageDrawers
 
 ## Libraries
+* Aroma1997Core
 * BrandonsCore
 * CoFH Core
 * CoFH World
@@ -101,6 +102,7 @@
 * EnderCore
 * McJtyLib
 * Redstone Flux
+* OpenModsLib
 * Tesla Core Lib
 * Forgelin
 * Mantle
